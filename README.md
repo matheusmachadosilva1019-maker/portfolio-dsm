@@ -1,8 +1,10 @@
 # Portfólio Digital - DSM
 
+#Olá, eu sou o Matheus Machado 
+
 ## Sobre mim
 
-Meu nome é Matheus Machado Silva e sou estudante do curso de Desenvolvimento de Software Multiplataforma (DSM) da FATEC Indaiatuba.
+Sou estudante do curso de Desenvolvimento de Software Multiplataforma (DSM) da Faculdade de Tecnologia de Indaiatuba Dr. Archimedes Lammoglia (FATEC).
 
 Este portfólio reúne o registro da minha trajetória de aprendizagem ao longo do curso, trazendo atividades, exercícios, projetos e os conhecimentos que venho construindo durante a formação.
 
