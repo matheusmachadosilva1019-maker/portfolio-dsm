@@ -2,9 +2,11 @@
 
 ## Sobre mim
 
-Meu nome é Joel Gonçalves e sou estudante do curso de Desenvolvimento de Software Multiplataforma (DSM) da FATEC Indaiatuba.
+## Sobre mim
 
-Este portfólio tem como objetivo registrar meu processo de aprendizagem durante o curso, apresentando atividades, exercícios, projetos e conhecimentos desenvolvidos ao longo da minha formação.
+Meu nome é Matheus Machado Silva e sou estudante do curso de Desenvolvimento de Software Multiplataforma (DSM) da FATEC Indaiatuba.
+
+Este portfólio reúne o registro da minha trajetória de aprendizagem ao longo do curso, trazendo atividades, exercícios, projetos e os conhecimentos que venho construindo durante a formação.
 
 ## Formação
 
@@ -14,12 +16,12 @@ Este portfólio tem como objetivo registrar meu processo de aprendizagem durante
 
 ## Perfil Acadêmico e Profissional
 
-Sou estudante de Desenvolvimento de Software Multiplataforma (DSM) e estou desenvolvendo conhecimentos na área de tecnologia, programação e desenvolvimento de software.
+Atualmente curso Desenvolvimento de Software Multiplataforma (DSM) e venho me aprofundando em programação, lógica computacional e desenvolvimento de software, buscando construir uma base sólida para atuar na área de tecnologia.
 
 ## Contatos
 
-- GitHub: joel-dev-crypto
-- joelgoncalvesdesouza50@gmail.com
+- GitHub: matheusmachadosilva1019-maker
+- matheusmachadosilva1019@gmail.com
 
 ## Conteúdos
 
