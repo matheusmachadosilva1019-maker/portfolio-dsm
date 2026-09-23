@@ -2,8 +2,6 @@
 
 ## Sobre mim
 
-## Sobre mim
-
 Meu nome é Matheus Machado Silva e sou estudante do curso de Desenvolvimento de Software Multiplataforma (DSM) da FATEC Indaiatuba.
 
 Este portfólio reúne o registro da minha trajetória de aprendizagem ao longo do curso, trazendo atividades, exercícios, projetos e os conhecimentos que venho construindo durante a formação.
