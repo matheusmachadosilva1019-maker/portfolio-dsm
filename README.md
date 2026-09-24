@@ -27,7 +27,7 @@ Durante a formação, estou desenvolvendo conhecimentos em:
 - GitHub
 - Estruturas de controle
 - Desenvolvimento de projetos
-- 
+
 ## Perfil Acadêmico e Profissional
 
 Atualmente curso Desenvolvimento de Software Multiplataforma (DSM) e venho me aprofundando em programação, lógica computacional e desenvolvimento de software, buscando construir uma base sólida para atuar na área de tecnologia.
