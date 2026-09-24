@@ -12,10 +12,22 @@ Atualmente, estou construindo minha base em desenvolvimento de sistemas e buscan
 
 ## Formação
 
-- Curso: Desenvolvimento de Software Multiplataforma (DSM)
-- Instituição: FATEC Indaiatuba
-- Ano: 2026
+FATEC Indaiatuba — Faculdade de Tecnologia de Indaiatuba  
+Início: 2026
 
+Durante a formação, estou desenvolvendo conhecimentos em:
+
+- Lógica de programação
+- Algoritmos
+- Desenvolvimento de software
+- Python
+- HTML
+- CSS
+- Git
+- GitHub
+- Estruturas de controle
+- Desenvolvimento de projetos
+- 
 ## Perfil Acadêmico e Profissional
 
 Atualmente curso Desenvolvimento de Software Multiplataforma (DSM) e venho me aprofundando em programação, lógica computacional e desenvolvimento de software, buscando construir uma base sólida para atuar na área de tecnologia.
@@ -25,7 +37,7 @@ Atualmente curso Desenvolvimento de Software Multiplataforma (DSM) e venho me ap
 - GitHub: matheusmachadosilva1019-maker
 - matheusmachadosilva1019@gmail.com
 
-## Conteúdos
+# Conteúdos
 
 ### Capítulo 1
 Avaliação de introdução à lógica de programação.
