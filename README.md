@@ -6,7 +6,9 @@ Olá, eu sou o Matheus Machado
 
 Sou estudante do curso de Desenvolvimento de Software Multiplataforma (DSM) da Faculdade de Tecnologia de Indaiatuba Dr. Archimedes Lammoglia (FATEC).
 
-Este portfólio reúne o registro da minha trajetória de aprendizagem ao longo do curso, trazendo atividades, exercícios, projetos e os conhecimentos que venho construindo durante a formação.
+Atualmente, estou construindo minha base em desenvolvimento de sistemas e buscando evoluir continuamente por meio de projetos práticos, estudos e desafios de programação.
+
+**Objetivo:** desenvolver minhas habilidades técnicas e construir uma carreira na área de tecnologia.
 
 ## Formação
 
